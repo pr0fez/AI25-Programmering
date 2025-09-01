@@ -1,6 +1,6 @@
 # Week 37 - Resources
 
-[Back to main page :house:](https://github.com/pr0fez/Programmering-med-Python-21)
+[Back to main page :house:](https://github.com/pr0fez/AI25-Programmering)
 
 ## Setup :wrench:
 
@@ -58,9 +58,9 @@
 - [if statement][exercise_if]
 - [while statement][exercise_while]
 
-[exercise_count]: https://github.com/pr0fez/AI24-Programmering/blob/master/Exercises/00-Count-with-Python-exercise.ipynb
-[exercise_if]: https://github.com/pr0fez/AI24-Programmering/blob/master/Exercises/01-if-statement-exercise.ipynb 
-[exercise_while]: https://github.com/pr0fez/AI24-Programmering/blob/master/Exercises/02-while-statement-exercise.ipynb
+[exercise_count]: https://github.com/pr0fez/AI25-Programmering/blob/master/Exercises/00-Count-with-Python-exercise.ipynb
+[exercise_if]: https://github.com/pr0fez/AI25-Programmering/blob/master/Exercises/01-if-statement-exercise.ipynb 
+[exercise_while]: https://github.com/pr0fez/AI25-Programmering/blob/master/Exercises/02-while-statement-exercise.ipynb
 
 ## Lab 1
 - Work with lab 1 Github

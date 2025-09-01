@@ -1,6 +1,6 @@
 # Week 39  - Resources
 
-[Back to main page :house:](https://github.com/pr0fez/Programmering-med-Python-21)
+[Back to main page :house:](https://github.com/pr0fez/AI25-Programmering)
 
 ## Video guides :video_camera:
 
@@ -25,15 +25,15 @@
 
 ## Lecture notes :mortar_board:
 
-- [file handling - lecture note](https://github.com/pr0fez/AI24-Programmering/blob/master/Lecture_notes/L8-file-handling.ipynb)
-- [dictionary - lecture note](https://github.com/pr0fez/AI24-Programmering/blob/master/Lecture_notes/L9-dictionary.ipynb)
-- [exceptions](https://github.com/pr0fez/AI24-Programmering/blob/master/Lecture_notes/L7-error-handling.ipynb)  
+- [file handling - lecture note](https://github.com/pr0fez/AI25-Programmering/blob/master/Lecture_notes/L8-file-handling.ipynb)
+- [dictionary - lecture note](https://github.com/pr0fez/AI25-Programmering/blob/master/Lecture_notes/L9-dictionary.ipynb)
+- [exceptions](https://github.com/pr0fez/AI25-Programmering/blob/master/Lecture_notes/L7-error-handling.ipynb)  
 
 ## Exercises :running:
 - [file handling - exercise][file_exer]
 - [dictionary - exercise][dict_exer]
 
-[file_exer]: https://github.com/pr0fez/AI24-Programmering/blob/master/Exercises/08-file-handling.ipynb
+[file_exer]: https://github.com/pr0fez/AI25-Programmering/blob/master/Exercises/08-file-handling.ipynb
 
-[dict_exer]: https://github.com/pr0fez/AI24-Programmering/blob/master/Exercises/09-dictionary-exercises.ipynb
+[dict_exer]: https://github.com/pr0fez/AI25-Programmering/blob/master/Exercises/09-dictionary-exercises.ipynb
 
