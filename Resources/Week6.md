@@ -1,6 +1,6 @@
 # Week 42 Resource
 
-[Back to main page :house:](https://github.com/pr0fez/AI24-Programmering)
+[Back to main page :house:](https://github.com/pr0fez/AI25-Programmering)
 
 ## Video guides :video_camera:
 
@@ -19,8 +19,8 @@
 
 ## Lecture notes :mortar_board:
 
-- [Matplotlib](https://github.com/pr0fez/AI24-Programmering/blob/master/Lecture_notes/Lec15-Matplotlib.ipynb)
-- [Unit testing](https://github.com/pr0fez/AI24-Programmering/tree/master/Lecture_notes/Lec14-unit%20testing)
+- [Matplotlib](https://github.com/pr0fez/AI25-Programmering/blob/master/Lecture_notes/Lec15-Matplotlib.ipynb)
+- [Unit testing](https://github.com/pr0fez/AI25-Programmering/tree/master/Lecture_notes/Lec14-unit%20testing)
 
 ## Exercises :running:
 

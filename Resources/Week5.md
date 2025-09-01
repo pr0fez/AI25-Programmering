@@ -1,6 +1,6 @@
 # Week 41 - Resources
 
-[Back to main page :house:](https://github.com/pr0fez/AI24-Programmering)
+[Back to main page :house:](https://github.com/pr0fez/AI25-Programmering)
 
 ## Video guides :video_camera:
 - Learn [Classes and objects][class_vid] for code organization and reusability 
@@ -27,6 +27,6 @@
 ## Exercises :running:
 
 - [OOP basics][OOP_exer]
-- [OOP inheritance and polymorphism](https://github.com/pr0fez/AI24-Programmering/blob/master/Exercises/E12-OOP-inheritance_polymorphism.ipynb)
+- [OOP inheritance and polymorphism](https://github.com/pr0fez/AI25-Programmering/blob/master/Exercises/E12-OOP-inheritance_polymorphism.ipynb)
 
-[OOP_exer]: https://github.com/pr0fez/AI24-Programmering/blob/master/Exercises/E11-OOP-basic-exercise.ipynb
+[OOP_exer]: https://github.com/pr0fez/AI25-Programmering/blob/master/Exercises/E11-OOP-basic-exercise.ipynb
