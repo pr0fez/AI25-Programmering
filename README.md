@@ -14,8 +14,8 @@ For detailed schedule [click here][time_sched]
 
 |   Week   | Content                                                                                      |
 | :------: | -------------------------------------------------------------------------------------------- |
-| [37][w1] | installation, git, I/O, control, lists, random, matplotlib, functions, lab                             |
-| [38][w2] | exception handling, datastructures, communication                           |
+| [37][w1] | installation, git, I/O, control, lists, random, lab                             |
+| [38][w2] | matplotlib, functions,exception handling, datastructures, communication                           |
 | [39][w3] | Paradigms, objects, types  |
 | [40][w4] | unit testing, modularization
 | [41][w5] | correctness, concurrency |                                                        
