@@ -20,6 +20,7 @@ For detailed schedule [click here][time_sched]
 | [40][w4] | unit testing, modularization
 | [41][w5] | correctness, concurrency |                                                        
 | [42][w6] | repetition, written exam                                              |
+| [43]     | complete assignments, self-study, recuperation |
 
 [w1]: https://github.com/pr0fez/AI25-Programmering/blob/master/Resources/Week1.md
 [w2]: https://github.com/pr0fez/AI25-Programmering/blob/master/Resources/Week2.md

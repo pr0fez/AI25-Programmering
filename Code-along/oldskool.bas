@@ -1,0 +1,4 @@
+10 PRINT "HELLO WORLD"
+20 INPUT A$
+30 B$ = "You typed " + A$
+40 PRINT B$ 
